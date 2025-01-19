@@ -9,4 +9,9 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
 
  ## Contenido de cada página
 
+ | Páginas | Contenido
+ | -------------------------------------------------
+ | Inicio | En esta página añadimos
+ 
+
  
