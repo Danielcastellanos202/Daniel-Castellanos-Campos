@@ -15,6 +15,7 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
  | **Configurador de PC** | En esta página de la web añadimos un formulario como selecctor de cada componente del PC que se desea crear. Al seleccionar un componente aparece una imagen del mismo. |
  | **Ordenadores y portátiles** | Tienen el mismo contenido pero con distintas imágenes y texto. 4 contenedores con un botón de comprar cada uno. |
  | **Soporte y contacto** | Se indican las condiciones de reparación y se muestra un formulario para rellenar para responder preguntas.|
+ | **Nota adicional** | Añadir también que en todas las páginas de la web contienen el ***mismo header y footer*** con sus respectivos iconos y menús laterales, usado como plantilla a la hora de introducir el contenido del body. |**Nota adicional** | Añadir también que en todas las páginas de la web contienen el ***mismo header y footer*** con sus respectivos iconos y menús laterales, usado como plantilla a la hora de introducir el contenido del body. |
 
 
 
