@@ -21,7 +21,7 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
  ## Imágenes de cada página y su respectivo código.
 
  - **Inicio**
-![Imagen body inicio] (
+![Imagen body inicio] (https://github.com/Danielcastellanos202/Daniel-Castellanos-Campos/blob/main/Imagen%20body%20inicio.png)
 
 
 
