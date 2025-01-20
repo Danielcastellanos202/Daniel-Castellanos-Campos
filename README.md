@@ -1,6 +1,6 @@
 # Proyecto página web
 ## Introducción
-Este proyecto se realizó como proyecto final de la primera evaluación,realizado junto a los compañeros Jorge Barba y José Antonio, dicho proyecto consistía en realizar una página web de un determinado tema, en nuestro caso de una tienda de informática, aplicando los conceptos vistos de html y css e investigando y añadiendo nuevos a la página.En nuestro caso añadimos lo siguiente:
+Este proyecto se realizó como proyecto final de la primera evaluación,realizado junto a los compañeros Jorge Barba y José Antonio, dicho proyecto consistía en realizar una página web de un determinado tema, en nuestro caso de una tienda de informática, aplicando los conceptos vistos de html y css e investigando y añadiendo nuevos a la página. En nuestro caso añadimos lo siguiente:
 
  - **Media query**.
  
