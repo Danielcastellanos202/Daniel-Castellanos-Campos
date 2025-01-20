@@ -21,7 +21,21 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
  ## Imágenes de cada página (solo body, se adjunta al final el footer y header debido a que se usa como plantilla a la que añadir el body).
 
  ### **Inicio**
-![Imagen body inicio](Imagen_body_principal.png)
+![Imagen body inicio](Imágenes/Imagen_body_principal.png)
+
+ ### **Configurador**
+ ![Imagen configurador](Imágenes/configurador.png)
+
+ ### **Computadoras**
+ ![Captura body computadoras](Imágenes/sobremesas.png)
+
+ ### **Portátiles**
+![ Body portátiles](Imágenes/portatiles.png)
+
+### **Soporte**
+
+![Body con vídeos soporte](Imágenes/soporte.png)
+
 
 
 
