@@ -18,7 +18,7 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
  | **Soporte y contacto** | Se indican las condiciones de reparación y se muestra un formulario para rellenar en caso preguntas.|
  | **Nota adicional** | Añadir también que en todas las páginas de la web contienen el ***mismo header y footer*** con sus respectivos iconos y menús laterales, usado como plantilla a la hora de introducir el contenido del body en cada página.|
 
- ## Imágenes de cada página y su respectivo código.
+ ## Imágenes de cada página (solo body, se adjunta al final el footer y header debido a que se usa como plantilla a la que añadir el body).
 
  ### **Inicio**
 ![Imagen body inicio](Imagen_body_principal.png)
