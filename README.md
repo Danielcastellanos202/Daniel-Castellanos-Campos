@@ -20,7 +20,7 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
 
  ## Imágenes de cada página y su respectivo código.
 
- - **Inicio**
+ ### **Inicio**
 ![Imagen body inicio](Imagen_body_principal.png)
 
 
