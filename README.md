@@ -15,7 +15,7 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
  | **Inicio** | En esta página añadimos contenedores de imagenes que redireccionan a otras páginas de la web. Se puede apreciar como las palabras superponen a las imágenes de cada contenedor.
  | **Configurador de PC** | En esta página de la web añadimos un formulario como selecctor de cada componente del PC que se desea crear. Al seleccionar un componente aparece una imagen del mismo. |
  | **Ordenadores y portátiles** | Tienen el mismo contenido pero con distintas imágenes y texto. 4 contenedores con un botón de comprar cada uno. |
- | **Soporte y contacto** | Se indican las condiciones de reparación y se muestra un formulario para rellenar en caso preguntas.|
+ | **Soporte y Contacto** | Se indican las condiciones de reparación y se muestra un formulario para rellenar en caso preguntas.|
  | **Nota adicional** | Añadir también que en todas las páginas de la web contienen el ***mismo header y footer*** con sus respectivos iconos y menús laterales, usado como plantilla a la hora de introducir el contenido del body en cada página.|
 
  ## Imágenes de cada página (solo body, se adjunta al final el footer y header debido a que se usa como plantilla a la que añadir el body).
@@ -32,12 +32,12 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
  ### **Portátiles**
 ![ Body portátiles](Imágenes/portatiles.png)
 
-### **Soporte**
+### **Soporte y contacto**
 
-![Body con vídeos soporte](Imágenes/soporte.png)
+![Formulario en caso de preguntas](Imágenes/soporte.png)
 
-
-
+### **Plantilla**
+![Plantilla de header y footer utilizada](Imágenes/plantilla.png)
 
 
 
