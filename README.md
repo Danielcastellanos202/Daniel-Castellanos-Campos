@@ -28,11 +28,11 @@ Este proyecto se realizó como proyecto final de la primera evaluación,realizad
 
 
  ## Links de herramientas usadas o relacionado con la página web.
-[ Página de w3schools para verificar la sintaxis de css y html y poder hacer comprobaciones](https://www.w3schools.com/)
+- [ Página de w3schools para verificar la sintaxis de css y html y poder hacer comprobaciones](https://www.w3schools.com/)
 
-[ Visual Studio Code, para poder realizar la página web mediante html y css](https://code.visualstudio.com/)
+- [ Visual Studio Code, para poder realizar la página web mediante html y css](https://code.visualstudio.com/)
 
-[Página web de MediaMarkt, usada como referencia a la hora de hacer la página web](https://www.mediamarkt.es/es?ds_rl=1275860&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXLWIoxJs6jgapvDAR1Hy4M4PxuXAxkz2TQmy7Rx1qAZ3VPO-BEAs_YaAr-EEALw_wcB&gclsrc=aw.ds&utm_campaign=rt_search_brand_nsp_na_MM-ES-S-G-BRAND-TEXT-BRAND-PURE.BRAND-ALL-ALL&utm_medium=cpc&utm_source=google)
+- [Página web de MediaMarkt, usada como referencia a la hora de hacer la página web](https://www.mediamarkt.es/es?ds_rl=1275860&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXLWIoxJs6jgapvDAR1Hy4M4PxuXAxkz2TQmy7Rx1qAZ3VPO-BEAs_YaAr-EEALw_wcB&gclsrc=aw.ds&utm_campaign=rt_search_brand_nsp_na_MM-ES-S-G-BRAND-TEXT-BRAND-PURE.BRAND-ALL-ALL&utm_medium=cpc&utm_source=google)
  
  
 
